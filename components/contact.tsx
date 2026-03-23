@@ -20,7 +20,7 @@ const contactDetails = [
     value: "southernsuburbsyouthacademy@gmail.com",
     href: "mailto:southernsuburbsyouthacademy@gmail.com",
   },
-  { icon: MapPin, label: "Location", value: "Glendale High School, Southern Suburbs, Cape Town" },
+  { icon: MapPin, label: "Main Office", value: "Parkwood, Grassy Park, Cape Town" },
 ];
 
 export function Contact() {
